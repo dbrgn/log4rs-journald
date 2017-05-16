@@ -1,0 +1,9 @@
+[package]
+name = "log4rs-journald"
+version = "0.1.0"
+authors = ["Danilo Bargen <mail@dbrgn.ch>"]
+
+[dependencies]
+log = "0.3.0"
+log4rs = "0.7.0"
+systemd = "0.0.10"
